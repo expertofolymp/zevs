@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Protein Shake",
+        "price": 50.0,
+        "imageUrl": "https://i.ibb.co/rkyYZdy/proteinshake.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Green Smoothie",
+        "price": 80.0,
+        "imageUrl": "https://i.ibb.co/b6n02fX/smoozie.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Energy Bar",
+        "price": 60.0,
+        "imageUrl": "https://i.ibb.co/8bb4DmS/50059e56934035-59c22b9d63535.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Water for sport",
+        "price": 40.0,
+        "imageUrl": "https://i.ibb.co/ZMQGVn3/QNT-Sport-Water-500-ml.jpg"
+    }
+]
