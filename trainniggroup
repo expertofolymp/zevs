@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Every day - Morning Yoga",
+        "time": "08:00 AM",
+        "description": "A relaxing yoga session to start your day.",
+        "imageUrl": "https://i.ibb.co/NZPpxs3/yoga.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Every day from 07:00 AM to 11:00 PM  - Gym Training",
+        "time": "07:00 AM",
+        "description": "A high-intensity strength workout for all levels.",
+        "imageUrl": "https://i.ibb.co/r2JMX7Q/gym.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Every day from 10:00 AM to 12:00 AM  - Aerostretching",
+        "time": "10:00 AM",
+        "description": "A specially selected set of exercises aimed at stretching the muscles of the whole body, at developing flexibility. Such classes are shown to people of any age, regardless of the available level of physical fitness",
+        "imageUrl": "https://i.ibb.co/VWGJSyG/sratching.jpg"
+    }
+]
